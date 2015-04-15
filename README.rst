@@ -2,7 +2,7 @@ Plone Mosaic
 ============
 
 ..  image:: https://www.herokucdn.com/deploy/button.png
-    :target: https://heroku.com/deploy?template=https://github.com/plone/plone.app.mosaic
+    :target: https://heroku.com/deploy?template=https://github.com/davidamoros/plone.app.mosaic
 
 **Plone Mosaic** allows you to define global site layouts and override them on specific contents or sections. You can then compose the content of the page using the Mosaic editor.
 
